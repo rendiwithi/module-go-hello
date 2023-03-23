@@ -1,5 +1,5 @@
 package module_go_hello
 
-func go_hello()string{
+func GoHello() string {
 	return "Hello"
 }
